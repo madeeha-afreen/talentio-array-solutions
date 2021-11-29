@@ -1,3 +1,4 @@
+//solution for q2
 #include <stdio.h>
 int main() 
 {
